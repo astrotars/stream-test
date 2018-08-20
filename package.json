@@ -1,0 +1,7 @@
+{
+  "name": "stream-test",
+  "version": "1.0.0",
+  "description": "Small app for testing Stream functionality",
+  "main": "index.js",
+  "license": "MIT"
+}
